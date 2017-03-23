@@ -1,0 +1,11 @@
+name = input("What is your name?")
+
+print = ("Hello" + name + ":)")
+
+if name = Amar
+print= ("Hello" + name + ":)" + 
+"I like your shoes")
+
+if name = Brandy
+print = ("Hello" + name + ":)" +
+"You seem like a cool person")
